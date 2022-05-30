@@ -1,0 +1,20 @@
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\bin\Debug\Advanced Tools Project.exe.config
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\bin\Debug\Advanced Tools Project.exe
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\bin\Debug\Advanced Tools Project.pdb
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.csprojAssemblyReference.cache
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced_Tools_Project.Form1.resources
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced_Tools_Project.Properties.Resources.resources
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.csproj.GenerateResource.cache
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.csproj.CoreCompileInputs.cache
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.exe
+C:\Users\Digital\Desktop\C#\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.pdb
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\bin\Debug\Advanced Tools Project.exe.config
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\bin\Debug\Advanced Tools Project.exe
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\bin\Debug\Advanced Tools Project.pdb
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.csprojAssemblyReference.cache
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced_Tools_Project.Form1.resources
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced_Tools_Project.Properties.Resources.resources
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.csproj.GenerateResource.cache
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.csproj.CoreCompileInputs.cache
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.exe
+C:\Users\Digital\Desktop\C-Sharp\Advanced Tools Project\Advanced Tools Project\obj\Debug\Advanced Tools Project.pdb
