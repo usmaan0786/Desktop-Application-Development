@@ -1,0 +1,22 @@
+Project Limitations : 
+
+as Insertion in Login is from Database
+
+but for your ease i'm giving you following username and password
+Login Form: 
+Admin:
+username : usman
+password : usman123
+
+
+Customer:
+
+username : ali
+password : ali123 
+
+if customer don't have account he had to create account first.
+
+In Login form you must have to enter correct input in one go by selecting Role.
+
+Project is Restricted to some Pages due to Short Time as i told in class.
+
